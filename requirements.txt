@@ -1,0 +1,6 @@
+fastapi
+fastapi_storages
+python-multipart
+hypercorn
+sqlalchemy
+psycopg2
